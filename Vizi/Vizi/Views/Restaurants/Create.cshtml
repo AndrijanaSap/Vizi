@@ -1,0 +1,171 @@
+﻿@model Vizi.Models.Restaurant
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4 style="color:red">*Fill in all the fields</h4>
+<div id="box" class="row">
+
+    <div class="col-md-6">
+
+        @using (Html.BeginForm("Create", "Restaurants", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                <h4>Create restaurant</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Telephone, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Telephone, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Telephone, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Picture, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="file" name="file" id="file" class="form-control" required/>
+                        @Html.ValidationMessageFor(model => model.Picture, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SidePicture1, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="file" name="sidefile1" id="sidefile1" class="form-control" required/>
+                        @Html.ValidationMessageFor(model => model.SidePicture1, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SidePicture2, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="file" name="sidefile2" id="sidefile2" class="form-control" required/>
+                        @Html.ValidationMessageFor(model => model.SidePicture2, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SidePicture3, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="file" name="sidefile3" id="sidefile3" class="form-control"required />
+                        @Html.ValidationMessageFor(model => model.SidePicture3, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SidePicture4, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="file" name="sidefile4" id="sidefile4" class="form-control" required/>
+                        @Html.ValidationMessageFor(model => model.SidePicture4, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Create" class="btn btn-default myButton" />
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="col-md-6">
+        <img src="https://www.ahstatic.com/photos/5555_rsr001_01_p_1024x768.jpg" style="max-width: 100%" />
+
+    </div>
+    <div>
+
+    </div>
+</div>
+<br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<style>
+
+    #box {
+        -webkit-box-shadow: 7px 4px 28px -10px rgba(0,0,0,0.75);
+        -moz-box-shadow: 7px 4px 28px -10px rgba(0,0,0,0.75);
+        box-shadow: 7px 4px 28px -10px rgba(0,0,0,0.75);
+        vertical-align: middle;
+        margin-top: 2%;
+        padding: 32px;
+    }
+
+    .myButton {
+        -moz-box-shadow: inset 0px 0px 15px 3px #23395e;
+        -webkit-box-shadow: inset 0px 0px 15px 3px #23395e;
+        box-shadow: inset 0px 0px 15px 3px #23395e;
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2e466e), color-stop(1, #415989));
+        background: -moz-linear-gradient(top, #2e466e 5%, #415989 100%);
+        background: -webkit-linear-gradient(top, #2e466e 5%, #415989 100%);
+        background: -o-linear-gradient(top, #2e466e 5%, #415989 100%);
+        background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2e466e', endColorstr='#415989',GradientType=0);
+        background-color: #2e466e;
+        -moz-border-radius: 17px;
+        -webkit-border-radius: 17px;
+        border-radius: 17px;
+        border: 1px solid #1f2f47;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: Arial;
+        font-size: 15px;
+        padding: 9px 30px;
+        text-decoration: none;
+        text-shadow: 0px 1px 0px #263666;
+    }
+
+        .myButton:hover {
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #415989), color-stop(1, #2e466e));
+            background: -moz-linear-gradient(top, #415989 5%, #2e466e 100%);
+            background: -webkit-linear-gradient(top, #415989 5%, #2e466e 100%);
+            background: -o-linear-gradient(top, #415989 5%, #2e466e 100%);
+            background: linear-gradient(to bottom, #415989 5%, #2e466e 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#415989', endColorstr='#2e466e',GradientType=0);
+            background-color: #415989;
+        }
+
+        .myButton:active {
+            position: relative;
+            top: 1px;
+        }
+</style>

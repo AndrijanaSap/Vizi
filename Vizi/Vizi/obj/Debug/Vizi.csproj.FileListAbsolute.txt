@@ -1,0 +1,1491 @@
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Vizi.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Owin.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\Ane\Downloads\Vizi-master (1)\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Vizi.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Owin.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\Dimitar\Downloads\Vizi-master\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Vizi Git\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi Repo\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\gdemj\Desktop\Raboti\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\Ane\Downloads\git2\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial11.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial12.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial13.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial14.resources
+C:\Users\gdemj\Desktop\Slider\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial15.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial11.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial12.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial13.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial14.resources
+C:\Users\Dimitar\Desktop\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial15.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial11.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial12.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial13.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial14.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial15.resources
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Zavrseno\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Vizi.dll.config
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Vizi.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Vizi.pdb
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csc.exe
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csc.exe.config
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csc.rsp
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csi.exe
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csi.exe.config
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\csi.rsp
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Console.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\vbc.exe.config
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\vbc.rsp
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\EntityFramework.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Owin.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Helpers.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Mvc.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Optimization.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Razor.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\WebGrease.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Helpers.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Mvc.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Optimization.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.Razor.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Newtonsoft.Json.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\EntityFramework.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial11.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial12.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial13.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial14.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial15.resources
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.dll
+C:\Users\gdemj\Desktop\Zavrseno bez prakane poraki\Vizi\Vizi\Vizi\obj\Debug\Vizi.pdb
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Vizi.dll.config
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Vizi.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Vizi.pdb
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csc.exe.config
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csc.rsp
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csi.exe.config
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\csi.rsp
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.AppContext.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Collections.Immutable.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Console.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Compression.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.IO.Pipes.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.AccessControl.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Claims.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.ValueTuple.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.exe.config
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\vbc.rsp
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\roslyn\VBCSCompiler.exe.config
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\EntityFramework.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Web.Infrastructure.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Owin.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\WebGrease.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Helpers.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Mvc.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Optimization.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.Razor.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Deployment.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Web.WebPages.Razor.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Newtonsoft.Json.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Antlr3.Runtime.pdb
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\EntityFramework.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\EntityFramework.SqlServer.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Google.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csprojAssemblyReference.cache
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial1.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial2.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial3.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial4.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial5.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial6.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.timestamp_review.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.ratings.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial7.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial8.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial9.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial10.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial11.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial12.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial13.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial14.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.Migrations.initial15.resources
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.GenerateResource.cache
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CoreCompileInputs.cache
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.csproj.CopyComplete
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.dll
+D:\ane\cv\Vizi-master\Vizi\Vizi\obj\Debug\Vizi.pdb
